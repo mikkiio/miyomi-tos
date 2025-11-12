@@ -1,6 +1,6 @@
 # Miyomi - Repository Hub & Community Platform
 
-![Miyomi Banner](https://via.placeholder.com/1200x400/2563eb/ffffff?text=Miyomi+Repository+Hub)
+![Miyomi Banner]([https://via.placeholder.com/1200x400/2563eb/ffffff?text=Miyomi+Repository+Hub](https://miyomi.pages.dev/assets/hugme-Bntl7Dsy.png))
 
 ## 🌟 About Miyomi
 
