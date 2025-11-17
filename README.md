@@ -25,14 +25,14 @@ Our commitment to protecting your privacy and data.
 - Confidential handling of voluntary communications
 - No data sharing with third parties
 
-[**Read Privacy Policy**](https://miyomi-tos.netlify.app/privacy.html)
+[**Read Privacy Policy**](https://miyomi-tos.netlify.app/)
 
 ## 🔗 Quick Links
 
 ### 🌐 Main Platforms
 - **Official Website**: [miyomi.pages.dev](https://miyomi.pages.dev)
 - **Terms of Service**: [miyomi-tos.netlify.app](https://miyomi-tos.netlify.app/)
-- **Privacy Policy**: [miyomi-tos.netlify.app/privacy.html]([https://miyomi-tos.netlify.app/)
+- **Privacy Policy**: [miyomi-tos.netlify.app]([https://miyomi-tos.netlify.app/)
 - **Support Email**: [miyomi.hub@gmail.com](mailto:miyomi.hub@gmail.com)
 
 ## ⚖️ Legal Overview
