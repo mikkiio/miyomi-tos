@@ -1,7 +1,5 @@
 # Miyomi - Terms of Service & Legal Documentation
 
-
-
 ## 📋 Legal Documentation
 
 ### 📄 Terms of Service
@@ -32,7 +30,7 @@ Our commitment to protecting your privacy and data.
 ### 🌐 Main Platforms
 - **Official Website**: [miyomi.pages.dev](https://miyomi.pages.dev)
 - **Terms of Service**: [miyomi-tos.netlify.app](https://miyomi-tos.netlify.app/)
-- **Privacy Policy**: [miyomi-tos.netlify.app]([https://miyomi-tos.netlify.app/)
+- **Privacy Policy**: [miyomi-tos.netlify.app](https://miyomi-tos.netlify.app/)
 - **Support Email**: [miyomi.hub@gmail.com](mailto:miyomi.hub@gmail.com)
 
 ## ⚖️ Legal Overview
@@ -111,7 +109,7 @@ We may update our Terms of Service and Privacy Policy periodically. Continued us
 **Legal Documentation for Miyomi Platforms**
 
 [![Terms of Service](https://img.shields.io/badge/Terms_of_Service-Read_Here-blue?style=for-the-badge)](https://miyomi-tos.netlify.app/)
-[![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-Read_Here-green?style=for-the-badge)](https://miyomi-tos.netlify.app/privacy.html)
+[![Privacy Policy](https://img.shields.io/badge/Privacy_Policy-Read_Here-green?style=for-the-badge)](https://miyomi-tos.netlify.app/)
 [![Contact](https://img.shields.io/badge/Contact-Email_Us-red?style=for-the-badge)](mailto:miyomi.hub@gmail.com)
 
 </div>
