@@ -1,6 +1,6 @@
 # Miyomi - Terms of Service & Legal Documentation
 
-![Miyomi Banner](https://miyomi.pages.dev/assets/hugme-Bntl7Dsy.png)
+
 
 ## 📋 Legal Documentation
 
