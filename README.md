@@ -1,6 +1,6 @@
 # Miyomi - Terms of Service & Legal Documentation
 
-## 📋 Legal Documentation
+## 📋 Legal Documentation 
 
 ### 📄 Terms of Service
 The complete Terms of Service governing all Miyomi platforms and services.
